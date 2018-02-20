@@ -21,20 +21,17 @@
 		<resource-file src="src/ios/Library/Sounds/modoalarma3.wav"/>
 	</platform>
 	<platform name="android">
-		<source-file src="src/android/res/drawable/launcher_icon.png" target-dir="res/drawable"/>
-		<source-file src="src/android/res/drawable/modoalarma.png" target-dir="res/drawable"/>
-        <source-file src="src/android/res/drawable/share_via_barcode.png" target-dir="res/drawable"/>
-        <source-file src="src/android/res/drawable/shopper_icon.png" target-dir="res/drawable"/>
-        <source-file src="src/android/res/drawable-hdpi/launcher_icon.png" target-dir="res/drawable-hdpi"/>
-		<source-file src="src/android/res/drawable-hdpi/modoalarma.png" target-dir="res/drawable-hdpi"/>
-        <source-file src="src/android/res/drawable-hdpi/shopper_icon.png" target-dir="res/drawable-hdpi"/>
-        <source-file src="src/android/res/drawable-xhdpi/launcher_icon.png" target-dir="res/drawable-xhdpi"/>
-        <source-file src="src/android/res/drawable-xxhdpi/launcher_icon.png" target-dir="res/drawable-xxhdpi"/>
-		<source-file src="src/android/res/drawable-xhdpi/modoalarma.png" target-dir="res/drawable-xhdpi"/>
-        <source-file src="src/android/res/drawable-xxhdpi/modoalarma.png" target-dir="res/drawable-xxhdpi"/>
-		<source-file src="src/android/res/raw/beep.ogg" target-dir="res/raw"/>
-		<source-file src="src/android/res/raw/modoalarma1.ogg" target-dir="res/raw"/>
-		<source-file src="src/android/res/raw/modoalarma2.ogg" target-dir="res/raw"/>
-		<source-file src="src/android/res/raw/modoalarma3.ogg" target-dir="res/raw"/>
+		<resource-file src="src/android/res/drawable/launcher_icon.png" target="res/drawable/launcher_icon.png"/>
+		<resource-file src="src/android/res/drawable/modoalarma.png" target="res/drawable/modoalarma.png"/>
+        <resource-file src="src/android/res/drawable-hdpi/launcher_icon.png" target="res/drawable-hdpi/launcher_icon.png"/>
+		<resource-file src="src/android/res/drawable-hdpi/modoalarma.png" target="res/drawable-hdpi/modoalarma.png"/>
+        <resource-file src="src/android/res/drawable-xhdpi/launcher_icon.png" target="res/drawable-xhdpi/launcher_icon.png"/>
+        <resource-file src="src/android/res/drawable-xxhdpi/launcher_icon.png" target="res/drawable-xxhdpi/launcher_icon.png"/>
+		<resource-file src="src/android/res/drawable-xhdpi/modoalarma.png" target="res/drawable-xhdpi/modoalarma.png"/>
+        <resource-file src="src/android/res/drawable-xxhdpi/modoalarma.png" target="res/drawable-xxhdpi/modoalarma.png"/>
+		<resource-file src="src/android/res/raw/beep.ogg" target="res/raw/beep.ogg"/>
+		<resource-file src="src/android/res/raw/modoalarma1.ogg" target="res/raw/modoalarma1.ogg"/>
+		<resource-file src="src/android/res/raw/modoalarma2.ogg" target="res/raw/modoalarma2.ogg"/>
+		<resource-file src="src/android/res/raw/modoalarma3.ogg" target="res/raw/modoalarma3.ogg"/>
 	</platform>
 </plugin>
