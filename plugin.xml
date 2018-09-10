@@ -34,8 +34,8 @@
 		<resource-file src="src/android/res/raw/modoalarma2.ogg" target="res/raw/modoalarma2.ogg"/>
 		<resource-file src="src/android/res/raw/modoalarma3.ogg" target="res/raw/modoalarma3.ogg"/>
 		
-		<resource-file src="src/android/res/raw/modoalarma1.mp3" target="res/raw/modoalarma1.mp3"/>
-		<resource-file src="src/android/res/raw/modoalarma2.mp3" target="res/raw/modoalarma2.mp3"/>
-		<resource-file src="src/android/res/raw/modoalarma3.mp3" target="res/raw/modoalarma3.mp3"/>
+		<resource-file src="src/android/res/raw/modoalarma1.mp3" target="res/raw/alarma1.mp3"/>
+		<resource-file src="src/android/res/raw/modoalarma2.mp3" target="res/raw/alarma2.mp3"/>
+		<resource-file src="src/android/res/raw/modoalarma3.mp3" target="res/raw/alarma3.mp3"/>
 	</platform>
 </plugin>
