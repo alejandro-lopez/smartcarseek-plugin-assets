@@ -17,7 +17,7 @@
 
     <!-- ios -->
 	<platform name="ios">
-		<resource-file src="src/ios/Library/Sounds/modoalarma2.wav"/>
+		
 		<resource-file src="src/ios/Library/Sounds/modoalarma3.wav"/>
 		<resource-file src="src/ios/Library/Sounds/modoalarma3.aiff"/>
 		<resource-file src="src/ios/Library/Sounds/modoalarma3.caf"/>
