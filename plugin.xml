@@ -19,6 +19,7 @@
 	<platform name="ios">
 		<resource-file src="src/ios/Library/Sounds/modoalarma2.wav"/>
 		<resource-file src="src/ios/Library/Sounds/modoalarma3.wav"/>
+		<resource-file src="src/ios/Library/Sounds/modoalarma3.aiff"/>
 	</platform>
 	<platform name="android">
 		<resource-file src="src/android/res/drawable/launcher_icon.png" target="res/drawable/launcher_icon.png"/>
