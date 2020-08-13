@@ -19,6 +19,7 @@
 	<platform name="ios">
 		<resource-file src="src/ios/Library/Sounds/modoalarma3.wav"/>
 		<resource-file src="src/ios/Library/Sounds/correct.wav"/>
+		<resource-file src="src/ios/Library/Sounds/correct.caf"/>
 		<resource-file src="src/ios/Library/Sounds/error.wav"/>
 		<resource-file src="src/ios/Library/Sounds/notificacion.wav"/>
 		<resource-file src="src/ios/Library/Sounds/recordatorio.wav"/>
