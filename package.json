@@ -1,9 +1,9 @@
 {
-  "name": "zeekmiauto-plugin-assets",
+  "name": "smartcarseek-plugin-assets",
   "version": "1.0.0",
-  "description": "Sounds and graphic assets for Zeek Mi Auto.",
+  "description": "Sounds and graphic assets for SmartCar Seek.",
   "cordova": {
-    "id": "zeekmiauto-plugin-assets",
+    "id": "smartcarseek-plugin-assets",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/argust/zeekmiauto-plugin-assets.git"
+    "url": "git+https://github.com/alejandro-lopez/smartcarseek-plugin-assets.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -25,10 +25,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "argust Tecnologias",
+  "author": "Argus Tecnologias",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/argust/zeekmiauto-plugin-assets/issues"
+    "url": "https://github.com/alejandro-lopez/smartcarseek-plugin-assets/issues"
   },
-  "homepage": "https://github.com/argust/zeekmiauto-plugin-assets#readme"
+  "homepage": "https://github.com/alejandro-lopez/smartcarseek-plugin-assets#readme"
 }
