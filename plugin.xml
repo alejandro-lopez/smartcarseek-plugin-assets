@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
-    id="zeekmiauto-plugin-assets"
+    id="smartcarseek-plugin-assets"
     version="1.0.0">
 
-    <name>ZeekMiAutoAssets</name>
-    <description>Sounds and graphic assets for Zeek Mi Auto</description>
+    <name>SmartCar Seek Assets</name>
+    <description>Sounds and graphic assets for SmartCar Seek</description>
     <license>MIT</license>
 
-    <repo>https://github.com/argust/zeekmiauto-plugin-assets</repo>
-    <issue>https://github.com/argust/zeekmiauto-plugin-assets/issues</issue>
+    <repo>https://github.com/alejandro-lopez/smartcarseek-plugin-assets</repo>
+    <issue>https://github.com/alejandro-lopez/smartcarseek-plugin-assets/issues</issue>
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
@@ -27,14 +27,14 @@
 		<resource-file src="src/ios/Library/Sounds/modoalarma3.caf"/>
 	</platform>
 	<platform name="android">
-		<resource-file src="src/android/res/drawable/launcher_icon.png" target="res/drawable/launcher_icon.png"/>
+		<resource-file src="src/android/res/drawable/ic_launcher.png" target="res/drawable/ic_launcher.png"/>
 		<resource-file src="src/android/res/drawable/sc_launcher_icon.png" target="res/drawable/sc_launcher_icon.png"/>
 		<resource-file src="src/android/res/drawable/modoalarma.png" target="res/drawable/modoalarma.png"/>
-        <resource-file src="src/android/res/drawable-hdpi/launcher_icon.png" target="res/drawable-hdpi/launcher_icon.png"/>
+        <resource-file src="src/android/res/drawable-hdpi/ic_launcher.png" target="res/drawable-hdpi/ic_launcher.png"/>
 		<resource-file src="src/android/res/drawable-hdpi/sc_launcher_icon.png" target="res/drawable-hdpi/sc_launcher_icon.png"/>
 		<resource-file src="src/android/res/drawable-hdpi/modoalarma.png" target="res/drawable-hdpi/modoalarma.png"/>
-        <resource-file src="src/android/res/drawable-xhdpi/launcher_icon.png" target="res/drawable-xhdpi/launcher_icon.png"/>
-        <resource-file src="src/android/res/drawable-xxhdpi/launcher_icon.png" target="res/drawable-xxhdpi/launcher_icon.png"/>
+        <resource-file src="src/android/res/drawable-xhdpi/ic_launcher.png" target="res/drawable-xhdpi/ic_launcher.png"/>
+        <resource-file src="src/android/res/drawable-xxhdpi/ic_launcher.png" target="res/drawable-xxhdpi/ic_launcher.png"/>
 		<resource-file src="src/android/res/drawable-xhdpi/sc_launcher_icon.png" target="res/drawable-xhdpi/sc_launcher_icon.png"/>
         <resource-file src="src/android/res/drawable-xxhdpi/sc_launcher_icon.png" target="res/drawable-xxhdpi/sc_launcher_icon.png"/>
 		<resource-file src="src/android/res/drawable-xhdpi/modoalarma.png" target="res/drawable-xhdpi/modoalarma.png"/>
