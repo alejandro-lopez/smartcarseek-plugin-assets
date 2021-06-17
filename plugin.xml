@@ -48,8 +48,5 @@
 		<resource-file src="src/android/res/raw/modoalarma2.mp3" target="res/raw/alarma2.mp3"/>
 		<resource-file src="src/android/res/raw/modoalarma3.mp3" target="res/raw/alarma3.mp3"/>
 		<resource-file src="src/android/res/raw/modoalarma3.wav" target="res/raw/alarma.wav"/>
-		<config-file target="AndroidManifest.xml" parent="/*">
-		    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
-		</config-file>
 	</platform>
 </plugin>
